@@ -1,6 +1,6 @@
 addEventListener('DOMContentLoaded',function(){
 
-console.log("Tu vieja");
+console.log("Juego iniciado");
 
 
 },false);
