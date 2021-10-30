@@ -1,6 +1,17 @@
 addEventListener('DOMContentLoaded',function(){
 
-console.log("Juego iniciado");
+inicio.iniciarJuego();
 
 
 },false);
+
+
+var inicio = {
+    iniciarJuego: function(){
+
+        console.log("Juego iniciado");
+        buclePrincipal.iterar();
+
+    }
+
+};
